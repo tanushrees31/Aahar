@@ -29,24 +29,26 @@ Uses Firebase Firestore (fStore) to store and retrieve user data.
 
 ## Output 
 
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146028346-9dc0a458-83bf-40c0-a64a-5f2bf76cf084.jpg" width="300" height="500"/>
 
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146029039-98f891c4-9a23-436c-8efd-67881fed4ad0.jpg" width="300" height="500"/>
+ 
+![Screenshot (253)](https://github.com/tanushrees31/Aahar/assets/94157726/57978333-01e9-4e80-b36e-ec1ed24e63dc)
 
 
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146030374-bea91b1b-6c90-4131-83b1-b1cf3de95bb3.jpg" width="300" height="500"/>
 
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146029532-12dba435-cfc7-49b5-9f50-5718a2602bf7.jpg" width="300" height="500"/>
+ 
+![Screenshot (254)](https://github.com/tanushrees31/Aahar/assets/94157726/96c2b091-ea51-441b-b61e-60dd330adaa7)
 
-   
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146031068-df295fa6-490c-4165-a3a4-927de1d26df8.jpg" width="300" height="500"/>
+
+
+
+ 
+   ![Screenshot (255)](https://github.com/tanushrees31/Aahar/assets/94157726/a29bf3dd-d503-45d5-ba7f-7fd3e3aa51e0)
+
+
+
      
 
+![Screenshot (256)](https://github.com/tanushrees31/Aahar/assets/94157726/fb944a0f-b124-4c65-8655-7062137eccf6)
 
 
 
