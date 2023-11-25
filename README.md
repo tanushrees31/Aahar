@@ -3,12 +3,24 @@
 ### Introduction
 The app server as a bridge between the individual, business and organization involved in the food industry and those who can benefit from excess or leftover food. The app allows users to easily donate food, search for available donations etc. The app aims to minimize food waste and contribute to a more sustainable and responsible food system.
 
-### Architecture Diag
+### Architecture Diagram
+
 ### Prerequisites
 Java 
 XML
 Andriod Studio
 
+### Steps Included 
+ 1 User Authentication:
+Utilizes Firebase Authentication (fAuth) for user login and registration.
+2 Donation :
+Provides a form  for users to input details about the food donation.
+3 Receiver :
+Provides a form  for users to input details about the receiver.
+4 Location Services:
+Integrates Google Maps API for displaying the user's location.
+5 Firestore Integration:
+Uses Firebase Firestore (fStore) to store and retrieve user data.
 
 ## Output 
 
