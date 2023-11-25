@@ -25,8 +25,6 @@ Andriod Studio
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146029532-12dba435-cfc7-49b5-9f50-5718a2602bf7.jpg" width="300" height="500"/>
 
-  <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146036214-43343c13-4769-4240-9ffd-38421d475852.jpg" width="300" height="500"/>
    
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146031068-df295fa6-490c-4165-a3a4-927de1d26df8.jpg" width="300" height="500"/>
