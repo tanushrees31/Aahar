@@ -1,30 +1,10 @@
-## Food-Waste-Management-App
-Food Waste Management App
+## "Food Donation Application " : user-friendy mobile application created to tackle the issues of food waste. 
 
-## Using Android Studio, XML and JAVA
+### Introduction
+The app server as a bridge between the individual, business and organization involved in the food industry and those who can benefit from excess or leftover food. The app allows users to easily donate food, search for available donations etc. The app aims to minimize food waste and contribute to a more sustainable and responsible food system.
 
-# XML as Frontend
-# JAVA as Backend
-# SQLite And RoomDataBase for CRUD Opeartion
-# Google API for Maps
 
-# XML
-XML stands for Extensible Markup Language. XML is a markup language much like HTML used to describe data. XML tags are not predefined in XML. We must define our own Tags.
-In Android we use xml for designing our layouts because xml is lightweight language so it doesn't make our layout heavy.
 
-# JAVA
-Android apps in the Java programming language using an IDE called Android Studio. Based on JetBrains' IntelliJ IDEA software, Android Studio is an IDE designed specifically for Android development.
-
-# RoomDatabase
-Room is a persistence library that provides an abstraction layer over the SQLite database to allow a more robust database. With the help of room, we can easily create the database and perform CRUD operations very easily. 
-
-# Components of Room
-The three main components of the room are Entity, Database, and DAO. 
-
-# In this app there were various type of modules available to perform CRUD Operation, Getting current location, Giving Rating, Calling using intent, Sharing app to others etc.
-Features ->  Room Database, Navigation Drawer, Rating bar, Alert Dialog , Toast Message, Splash Screen
-             Floating Action Button, Drawbles, Styles, CardView, RecyclerView, Google ApI For MAps, Reverse geocoding , Intents ,
-             BroadCastReceiver , AsyncTask, Services , Sharing App to others, MAKE a call using intent etc.
          
 
 
