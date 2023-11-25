@@ -4,6 +4,7 @@
 The app server as a bridge between the individual, business and organization involved in the food industry and those who can benefit from excess or leftover food. The app allows users to easily donate food, search for available donations etc. The app aims to minimize food waste and contribute to a more sustainable and responsible food system.
 
 ### Architecture Diagram
+![Screenshot (244)](https://github.com/tanushrees31/Aahar/assets/94157726/ae38a0c4-aae4-4108-81dd-21f4faca8c8b)
 
 ### Prerequisites
 Java 
