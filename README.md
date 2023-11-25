@@ -12,13 +12,17 @@ Andriod Studio
 
 ### Steps Included 
  1 User Authentication:
-Utilizes Firebase Authentication (fAuth) for user login and registration.
+Utilizes Firebase Authentication (fAuth) for user login and registration.  
+
 2 Donation :
 Provides a form  for users to input details about the food donation.
+
 3 Receiver :
 Provides a form  for users to input details about the receiver.
+
 4 Location Services:
 Integrates Google Maps API for displaying the user's location.
+
 5 Firestore Integration:
 Uses Firebase Firestore (fStore) to store and retrieve user data.
 
